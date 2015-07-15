@@ -7,6 +7,8 @@ It monitors my room and records video if an intruder is detected.
 
 - A PHP webpage displays the latest video taken when an intruder has been detected.
 
+[Fritzing](http://fritzing.org/home/) is needed to view the schematic file
+
 Check out the video for this project:
 http://youtu.be/uBYMG-eWFFg
 
